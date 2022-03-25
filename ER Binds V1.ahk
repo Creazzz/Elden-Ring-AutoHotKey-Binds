@@ -1,7 +1,5 @@
-﻿#MaxHotkeysPerInterval 200
-
+#MaxHotkeysPerInterval 200
 F4::ExitApp
-
 F3::Suspend
 
 XButton2::x
@@ -13,10 +11,8 @@ x::y
 c::h
 v::q
 
-2::c
-3::v
-
-
+t::g
+g::t
 
 
 
